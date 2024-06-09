@@ -1,4 +1,27 @@
 #calculator-body {
     display: block;
-    background-color: grey;
+    background-color: rgb(204, 204, 204);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+}
+
+.calculator-display {
+    text-align: right;
+    margin: auto;
+    display: block;
+    border-radius: 5px;
+    background-color: black;
+    color: yellow;
+    padding: 10px;
+    font-size: x-large;
+}
+
+@media (min-width: 500px) {
+    #calculator-body {
+        width: 75%;
+        margin: auto;
+    }   
 }
