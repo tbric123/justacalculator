@@ -1,2 +1,2 @@
-# justacalculator
-Just a Calculator written for the web
+# Just a Calculator
+A calculator I am creating to get back into web development, starting with the basics. I hope to expand this with more features and practice refactoring it into different frameworks.
